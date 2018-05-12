@@ -52,7 +52,7 @@
 # array
 # =================
   
-  countries = ["canada", "brazil", "spain"]  
+  countries = ["canada", "brazil", "spain", "new zealand"]  
   cities = ["Houston", "Austin", "Dallas" ]
   
 # =================
