@@ -13,7 +13,7 @@
 # module
 # =================
 
-  module Foo
+  module Foo			# crapola
     #...
   end
 
