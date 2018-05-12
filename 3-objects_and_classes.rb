@@ -4,7 +4,7 @@
 # all values are objects, and
 # there is no distinction between
 # primitives types and object
-# types. Every thing is an Object!
+# types. Everything is an Object!
 #
 # ================================
 
